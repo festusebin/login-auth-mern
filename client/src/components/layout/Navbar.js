@@ -7,7 +7,7 @@ class Navbar extends Component {
       <div className="navbar-fixed">
         <nav className="z-depth-0">
           <div className="nav-wrapper white">
-            <Link to='/' style={{ fontFamily: "montserrat"}} className="col s5 brand-logo center blue-text">
+            <Link to='/' style={{ fontFamily: "poppins"}} className="col s5 brand-logo center blue-text">
               <i className="material-icons"></i>
                 MERN Home Page 
             </Link>
